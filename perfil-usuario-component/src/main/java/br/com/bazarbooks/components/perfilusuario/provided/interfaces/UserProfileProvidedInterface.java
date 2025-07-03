@@ -27,6 +27,6 @@ public interface UserProfileProvidedInterface {
     boolean deleteUserAddress(int addressId);
 
     String uploadProfilePicture(int userId, byte[] imageData, String fileName); // ImageUploader
-
+    
     String getUserAddressCoordinates(int addressId); // GeolocationProvider
 }
