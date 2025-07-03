@@ -12,7 +12,7 @@ Para começar a trabalhar com este componente:
 2. Clone o repositório forkado em sua máquina:
 
 ```bash
-git clone [https://github.com/evelinferreiraa/BRADEPO---Perfil-Usuario-Component.git](https://github.com/evelinferreiraa/BRADEPO---Perfil-Usuario-Component.git)
+git clone [https://github.com/evelinferreiraa/BRADEPO-perfil-usuario-component](https://github.com/evelinferreiraa/BRADEPO-perfil-usuario-component)
 ````
 
 ## Estrutura do Projeto
