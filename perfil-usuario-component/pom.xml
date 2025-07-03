@@ -16,7 +16,7 @@
 
     <name>Bazar Books - Componente Perfil do Usuário</name>
     <description>Componente de software para gerenciamento de perfis de usuário do Bazar Books, implementando o Padrão de Interface de Componente.</description>
-    <url>https://github.com/evelinferreiraa/BRADEPO---Projeto-de-Componentes-Beyond</url>
+    <url>https://github.com/evelinferreiraa/BRADEPO-perfil-usuario-component</url>
 
     <licenses>
         <license>
@@ -35,9 +35,9 @@
     </developers>
 
     <scm>
-        <url>https://github.com/evelinferreiraa/BRADEPO---Perfil-Usuario-Component</url>
-        <connection>scm:git:git://github.com/evelinferreiraa/BRADEPO---Perfil-Usuario-Component.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:evelinferreiraa/BRADEPO---Perfil-Usuario-Component.git</developerConnection>
+        <url>https://github.com/evelinferreiraa/BRADEPO-perfil-usuario-component</url>
+        <connection>scm:git:git://github.com/evelinferreiraa/BRADEPO-perfil-usuario-component</connection>
+        <developerConnection>scm:git:ssh://git@github.com/evelinferreiraa/BRADEPO-perfil-usuario-component</developerConnection>
     </scm>
 
     <dependencies>
